@@ -1,3 +1,8 @@
 localhost
 play.vapexnw.com.tr
 localhost:25565
+play.lethianw.com.tr
+play.lunanw.com.tr
+play.lapexnw.com.tr
+play.titanyumnw.com.tr
+
